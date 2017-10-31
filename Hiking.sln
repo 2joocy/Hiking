@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hiking", "Hiking.csproj", "{3BA819AA-9EF9-DA67-F451-C987DA73A86A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hiking.Plugins", "Hiking.Plugins.csproj", "{38377A52-DCB3-3E12-F8A0-8F475C197E17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hiking.Editor.Plugins", "Hiking.Editor.Plugins.csproj", "{FC8A18A5-4D59-BAB8-7E9B-D8F74E38A342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BA819AA-9EF9-DA67-F451-C987DA73A86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA819AA-9EF9-DA67-F451-C987DA73A86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA819AA-9EF9-DA67-F451-C987DA73A86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA819AA-9EF9-DA67-F451-C987DA73A86A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38377A52-DCB3-3E12-F8A0-8F475C197E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38377A52-DCB3-3E12-F8A0-8F475C197E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38377A52-DCB3-3E12-F8A0-8F475C197E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38377A52-DCB3-3E12-F8A0-8F475C197E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC8A18A5-4D59-BAB8-7E9B-D8F74E38A342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8A18A5-4D59-BAB8-7E9B-D8F74E38A342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8A18A5-4D59-BAB8-7E9B-D8F74E38A342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8A18A5-4D59-BAB8-7E9B-D8F74E38A342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
